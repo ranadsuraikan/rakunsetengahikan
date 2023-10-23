@@ -1,0 +1,33 @@
+body {
+  background-image: url(bg-main.png);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 37px;
+}
+
+.img-main {
+  background-image: url(renji.png);
+  height: 480x;
+  width: 250px;
+}
+
+.txt-main {
+  background-image: linear-gradient(180deg, #431e7e, #d335ca, rgba(95, 37, 155, 255));
+  height: 480px;
+  width: 500px;
+
+  padding-top: 50px;
+}
+
+input {
+  border-radius: 7px;
+  border: none;
+  height: 30px;
+}
+
+.warna {
+  color: rgb(0, 255, 13);
+}
